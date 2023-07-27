@@ -1,0 +1,30 @@
+
+
+.sidebar{
+    height: 80vh;
+    float: left;
+    top: 0;
+    left: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+nav {
+    height: 70vh;
+    background-color: rgba(200, 200, 200, 0.3);
+    backdrop-filter: blur(15px);
+    width: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 4rem;
+  }
+  nav ul{
+    width: 80%;
+    text-align: center;
+  }
+  li{
+    list-style: none;
+    border-bottom: solid 2px black;
+  }

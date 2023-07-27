@@ -1,0 +1,16 @@
+main{
+    height: 90vh;
+    width: 90vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: .5rem;
+}
+.container{
+    background-color: #cd3;
+    height: 100%;
+    width: 100%;
+    margin: .5rem;
+    border-radius: 3rem;
+    border: solid 1rem grey;
+}
